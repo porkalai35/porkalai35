@@ -1,5 +1,5 @@
 
-###    : Hey There :🖐
+### Hey There!!1🖐
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -25,7 +25,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <hr>
-### 👧: About Me :
+### :girl: About Me :
 
 - 🔭 I’m currently working on Full Stack Projects👩‍💻
 - 🌱 I’m currently learning MERN Stack👩‍💻
@@ -46,7 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<hr><br>
+<hr>
 
 
 ### :fire: My Stats :
