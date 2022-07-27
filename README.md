@@ -25,6 +25,14 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <hr>
+### 👧: About Me :
+
+- 🔭 I’m currently working on Full Stack Projects👩‍💻
+- 🌱 I’m currently learning MERN Stack👩‍💻
+- 👯 I’m looking to collaborate on Devlopers👩‍💻👩‍💻
+- 🤔 I’m looking for help with project ideas💬💬
+- 📫 How to reach me: itporkalaiselvi485@gmail.com
+- ⚡ Fun fact: EAT🍟 -> CODE 👩‍💻 -> SLEEP😴
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -39,11 +47,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <hr><br>
-### 👧: About Me :
 
-- 🔭 I’m currently working on Full Stack Projects👩‍💻
-- 🌱 I’m currently learning MERN Stack👩‍💻
-- 👯 I’m looking to collaborate on Devlopers👩‍💻👩‍💻
-- 🤔 I’m looking for help with project ideas💬💬
-- 📫 How to reach me: itporkalaiselvi485@gmail.com
-- ⚡ Fun fact: EAT🍟 -> CODE 👩‍💻 -> SLEEP😴
+
+### :fire: My Stats :
