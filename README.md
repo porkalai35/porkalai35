@@ -25,6 +25,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <hr>
+
 ### :girl: About Me :
 
 - 🔭 I’m currently working on Full Stack Projects👩‍💻
@@ -33,6 +34,7 @@
 - 🤔 I’m looking for help with project ideas💬💬
 - 📫 How to reach me: itporkalaiselvi485@gmail.com
 - ⚡ Fun fact: EAT🍟 -> CODE 👩‍💻 -> SLEEP😴
+<hr>
 
 ### :hammer_and_wrench: Languages and Tools :
 
