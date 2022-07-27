@@ -19,13 +19,15 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </center>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+👩‍🎓ABOUT ME!!!
 
 - 🔭 I’m currently working on Full Stack Projects👩‍💻
-- 🌱 I’m currently learning MERN 👩‍💻
+- 🌱 I’m currently learning MERN Stack👩‍💻
 - 👯 I’m looking to collaborate on Devlopers👩‍💻👩‍💻
 - 🤔 I’m looking for help with project ideas💬💬
-- 💬 Ask me about Something..💬💬
 - 📫 How to reach me: itporkalaiselvi485@gmail.com
-- 😄 Pronouns: she👩
 - ⚡ Fun fact: EAT🍟 -> CODE 👩‍💻 -> SLEEP😴
