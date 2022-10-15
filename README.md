@@ -28,8 +28,10 @@
 
 ### :girl: About Me :
 
-- 🔭 I’m currently working on Full Stack Projects👩‍💻
-- 🌱 I’m currently learning MERN Stack👩‍💻
+- 🌱 Web Developer👩‍💻
+- 🔭 Technical Content Writer👩‍💻
+- 🌱 Open Source Contributor👩‍💻
+- 🌱 Currently Learning Devops👩‍💻
 - 👯 I’m looking to collaborate on Devlopers👩‍💻👩‍💻
 - 🤔 I’m looking for help with project ideas💬💬
 - 📫 How to reach me: itporkalaiselvi485@gmail.com
