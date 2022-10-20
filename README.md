@@ -52,7 +52,7 @@
 </div>
 <hr>
 
-### 🎯:My Badges :
+### 🎯🎯 My Badges :
 [![@porkalai's Holopin board](https://holopin.io/api/user/board?user=porkalai)](https://holopin.io/@porkalai)
 
 
