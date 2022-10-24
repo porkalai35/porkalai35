@@ -32,8 +32,8 @@
 - 🔭 Technical Content Writer👩‍💻
 - 🌱 Open Source Contributor👩‍💻
 - 🌱 Currently Learning Devops👩‍💻
-- 👯 I’m looking to collaborate on Devlopers👩‍💻👩‍💻
-- 🤔 I’m looking for help with project ideas💬💬
+- 👯 I’m looking to collaborate with Developers👩‍💻👩‍💻
+- 🤔 I’m looking for help about project ideas💬💬
 - 📫 How to reach me: itporkalaiselvi485@gmail.com
 - ⚡ Fun fact: EAT🍟 -> CODE 👩‍💻 -> SLEEP😴
 <hr>
