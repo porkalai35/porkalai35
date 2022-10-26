@@ -1,6 +1,6 @@
 
 <div align="center">
-  Hey there!!! 🖐🖐🖐
+  Hey there!!!🖐🖐🖐
  </div>
 
 <div id="header" align="center">
@@ -33,9 +33,8 @@
 - 🌱 Open Source Contributor👩‍💻
 - 🌱 Currently Learning Devops👩‍💻
 - 👯 I’m looking to collaborate with Developers👩‍💻👩‍💻
-- 🤔 I’m looking for help about project ideas💬💬
 - 📫 How to reach me: itporkalaiselvi485@gmail.com
-- ⚡ Fun fact: EAT🍟 -> CODE 👩‍💻 -> SLEEP😴
+- ⚡ Fun fact: EAT🍟 -> CODE 👩‍💻 -> SLEEP😴 -> REPEAT
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :
