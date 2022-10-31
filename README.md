@@ -24,6 +24,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" width="600" height="300"/>
+</div>
+
+
 <hr>
 
 ### :girl: About Me :
