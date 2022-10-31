@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" width="600" height="300"/>
+  <img src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" width="600" height="300"/>
 </div>
 
 
