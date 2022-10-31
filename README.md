@@ -21,9 +21,9 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue"   alt=""/>
 </div>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</div>-->
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" width="600" height="300"/>
