@@ -67,4 +67,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porkalai35&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### :heart: Projects made with ❤️👇🏻
+### : Projects made with ❤️👇🏻
