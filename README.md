@@ -36,7 +36,7 @@
 
 - 🌱 Full Stack Web Developer👩‍💻
 - 🔭 Technical Content Writer👩‍💻
-- 🌱 Open Source Contributor👩‍💻
+- 🔭 Open Source Contributor👩‍💻
 - 🌱 Currently Learning Devops👩‍💻
 - 👯 I’m looking to collaborate with Developers👩‍💻👩‍💻
 - 📫 How to reach me: itporkalaiselvi485@gmail.com
