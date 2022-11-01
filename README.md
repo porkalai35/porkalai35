@@ -34,7 +34,7 @@
 
 ### :girl: About Me :
 
-- 🌱 Web Developer👩‍💻
+- 🌱 Full Stack Web Developer👩‍💻
 - 🔭 Technical Content Writer👩‍💻
 - 🌱 Open Source Contributor👩‍💻
 - 🌱 Currently Learning Devops👩‍💻
