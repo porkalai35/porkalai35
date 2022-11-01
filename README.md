@@ -66,7 +66,7 @@
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" title="NodeJS" alt="NodeJS" width="100" height="100"/>&nbsp;
 
 
-<img src="https://media-exp1.licdn.com/dms/image/C5622AQF1vBHI34aVQw/feedshare-shrink_800/0/1666111904848?e=1669248000&v=beta&t=k0W0UFIjk3MGzzZGy2DGDHzI1QUvdHBrFJ0Pg_Swo7A" title="NodeJS" alt="NodeJS" width="1000" height="100"/>&nbsp;
+<img src="https://media-exp1.licdn.com/dms/image/C5622AQF1vBHI34aVQw/feedshare-shrink_800/0/1666111904848?e=1669248000&v=beta&t=k0W0UFIjk3MGzzZGy2DGDHzI1QUvdHBrFJ0Pg_Swo7A" title="NodeJS" alt="NodeJS" width="1000" height="400"/>&nbsp;
 
 
 
