@@ -58,10 +58,12 @@
 <hr>
 
 ### 🎯🎯 My Badges :
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" title="NodeJS" alt="NodeJS" width="100" height="100"/>&nbsp;
+
 [![@porkalai's Holopin board](https://holopin.io/api/user/board?user=porkalai)](https://holopin.io/@porkalai)
 
+### 🎯 HacktoberFest 2022 Badge :
 
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" title="NodeJS" alt="NodeJS" width="100" height="100"/>&nbsp;
 
 ### :fire: My Stats :
 
