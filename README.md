@@ -57,9 +57,6 @@
 </div>
 <hr>
 
-### 🎯🎯 My Badges :
-
-[![@porkalai's Holopin board](https://holopin.io/api/user/board?user=porkalai)](https://holopin.io/@porkalai)
 
 ### 🎯🎯 HacktoberFest 2022 Badge :
 
