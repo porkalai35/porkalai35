@@ -43,6 +43,10 @@
 - ⚡ Fun fact: EAT🍟 -> CODE 👩‍💻 -> SLEEP😴 -> REPEAT
 <hr>
 
+### :fire: My Stats :
+
+![porkalai35's GitHub stats](https://github-readme-stats.vercel.app/api?username=porkalai35&show_icons=true&theme=transparent)
+<hr>
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
