@@ -3,7 +3,9 @@
   Hey there!!🖐🖐
  </div>
 <br>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/porkalai-selvi-s-19375b197/" target="blank">
@@ -15,9 +17,9 @@
   </a>
 </div>
 
-
+<center>
 ![porkalai35's GitHub stats](https://github-readme-stats.vercel.app/api?username=porkalai35&show_icons=true&theme=transparent)
-
+</center>
 <hr>
 
 ### :girl: About Me :
