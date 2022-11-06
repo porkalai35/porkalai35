@@ -2,7 +2,7 @@
 <div align="center">
   Hey there!!🖐🖐
  </div>
-
+<br>
 
 
 <div id="badges"  align="center">
@@ -15,13 +15,6 @@
   </a>
 </div>
 
-
-
-
-
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" width="600" height="300"/>
-</div>
 
 ![porkalai35's GitHub stats](https://github-readme-stats.vercel.app/api?username=porkalai35&show_icons=true&theme=transparent)
 
