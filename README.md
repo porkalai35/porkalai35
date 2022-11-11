@@ -63,8 +63,8 @@
 <hr>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=porkalai35)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=porkalai35&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 [![porkalai35's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=porkalai35&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/porkalai35/github-readme-stats#gh-dark-mode-only)
 [![porkalai35's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=porkalai35&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/porkalai35/github-readme-stats#gh-light-mode-only)
