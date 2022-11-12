@@ -24,7 +24,7 @@
 - 🌱 Full Stack Web Developer👩‍💻
 - 🔭 Technical Content Writer👩‍💻
 - 🔭 Open Source Contributor👩‍💻
-- 🌱 Currently Learning Devops (Docker)🐋
+- 🌱 Currently Learning Devops🐋
 - 👯 I’m looking to collaborate with Developers👩‍💻👩‍💻
 - 📫 How to reach me: itporkalaiselvi485@gmail.com
 - ⚡ Fun fact: EAT🍟 -> CODE 👩‍💻 -> SLEEP😴 -> REPEAT
