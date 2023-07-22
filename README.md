@@ -54,7 +54,10 @@
 <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHRrZnAwMDMyMDlqbmtxZTF3dzVhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" title="NodeJS" alt="NodeJS" width="100" height="100"/>&nbsp;
 <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" title="NodeJS" alt="NodeJS" width="100" height="100"/>&nbsp;
 <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGFqeHF4eTUwNDMzMDhqc3k3bXp1NmlwIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" title="NodeJS" alt="NodeJS" width="100" height="100"/>&nbsp;
-<img src="https://cdn.qwiklabs.com/kqE8y3KZ7X%2FFV6jbYL4fV7Hi0zEKgcGu3QEdy0ivq5o%3D" title="NodeJS" alt="NodeJS" width="100" height="100"/>&nbsp;
+<img src="https://cdn.qwiklabs.com/kqE8y3KZ7X%2FFV6jbYL4fV7Hi0zEKgcGu3QEdy0ivq5o%3D" title="NodeJS" alt="NodeJS" width="150" height="100"/>&nbsp;
+<img src="https://cdn.qwiklabs.com/f8yw2QLvxlvPhXGpBPH0xjZRtte0lwGLogHCranrx74%3D" title="NodeJS" alt="NodeJS" width="150" height="100"/>&nbsp;
+<img src="https://cdn.qwiklabs.com/kt66WrqdJ2YUeLHVCkyK6OotUZBVd%2BhvpAZWZS2Gu70%3D" title="NodeJS" alt="NodeJS" width="150" height="100"/>&nbsp;
+
 <hr>
 
 ### 🎯🎯 My Badges :
