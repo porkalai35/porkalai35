@@ -41,7 +41,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>
-     <img src="https://www.pinclipart.com/picdir/middle/126-1262879_image-aws-logo-png-clipart.png" title="AWS" alt="AWS" width="40" height="40"/>
+     <img src="https://www.clipartmax.com/png/middle/195-1955494_aws-simple-icons-aws-cloud-aws-cloud.png" title="AWS" alt="AWS" width="60" height="40"/>
 </div>
 <hr>
 
